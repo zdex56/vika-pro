@@ -1,6 +1,7 @@
 
 #include <iostream>
 int main() {
-    std::cout << "TSAFLJASOLFKssssssHASLFK !" << std::endl;
+    std::cout << "TSAFLJASOLFKssssssssssHASLFK !" << std::endl;
+    std::cout << "TSAFLJASOLFKsssssssssssssssssHASLFK !" << std::endl;
     return 0;
 }
