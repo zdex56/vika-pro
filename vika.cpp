@@ -1,6 +1,6 @@
 
 #include <iostream>
 int main() {
-    std::cout << "לûף עשךü" << std::endl;
+    std::cout << "lol" << std::endl;
     return 0;
 }
