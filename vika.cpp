@@ -37,7 +37,7 @@ void deleteContact() {
     cout << "ne naiden " << endl;
 }
 
-// это часть ИльясА Абулхаиров  крч я сделал ввод и удаление
+// Ilyas Abulkhairov
 
 
 
@@ -99,4 +99,4 @@ int main() {
     } while (choice != 4);
 }
 
-//Это часть Матовой Вики
+//Matova Vika
