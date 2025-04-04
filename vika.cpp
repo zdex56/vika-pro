@@ -1,6 +1,6 @@
 
 #include <iostream>
 int main() {
-    std::cout << "TEST !" << std::endl;
+    std::cout << "privet" << std::endl;
     return 0;
 }
